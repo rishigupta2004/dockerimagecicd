@@ -1,0 +1,1 @@
+# This repository is used to show, How to work with the github actions to fully automate the workflow using ci-cd pipeline by building a flask app and integrating using docker image that is later updated to the Docker Hub.
